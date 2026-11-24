@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.md   text
+*.txt  text
+*.ipynb text
+*.pptx -text
+*.docx -text
+*.xlsx -text
+*.pdf  -text
+*.png  -text
+*.jpg  -text
