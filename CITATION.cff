@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: 이 자료를 인용하실 때는 아래 정보를 사용해 주십시오.
+title: >-
+  조선총독부 문서의 해독 — 강독 산출물의 AI 데이터 전환
+  (AI 고전번역학 전문과정 2026)
+abstract: >-
+  傳統文化硏究會 古典硏修院 주관 「AI 고전번역학 전문과정」 2026년 2학기 석학 초청
+  특별 기획 강좌 「조선총독부 문서의 해독」 가운데, 강독 산출물을 AI 데이터로
+  전환하는 실습 세 차례의 자료와 산출물이다. 수강생이 자기 사료를 자기 데이터로
+  만드는 과정을 직접 밟는 것을 목표로 하며, 원본 이미지의 텍스트화, 텍스트의
+  데이터화, TEI 기반 인코딩의 LLM 반자동화를 차례로 다룬다. 공통 실습 자료는
+  『臨時財産整理局事務要綱』(朝鮮總督府 度支部, 1911)이다.
+type: dataset
+authors:
+  - family-names: Jung
+    given-names: Song-yi
+    alias: 정송이
+    affiliation: 한국학중앙연구원
+    orcid: 'https://orcid.org/0009-0002-8141-766X'
+  - family-names: Kim
+    given-names: Baro
+    alias: 김바로
+    affiliation: 한국학중앙연구원
+    orcid: 'https://orcid.org/0000-0002-4456-9616'
+keywords:
+  - 디지털인문학
+  - digital humanities
+  - TEI
+  - XML
+  - LLM
+  - prompt engineering
+  - 조선총독부 문서
+  - 일제강점기 사료
+  - teaching materials
+  - Korean studies
+license: CC-BY-SA-4.0
+repository-code: https://github.com/Song-yiJung/ai-gojeon-chongdokbu-2026
+url: https://github.com/Song-yiJung/ai-gojeon-chongdokbu-2026
+version: 1.0.0
+date-released: '2026-11-25'

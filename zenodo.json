@@ -1,0 +1,43 @@
+{
+  "title": "조선총독부 문서의 해독 — 강독 산출물의 AI 데이터 전환 (AI 고전번역학 전문과정 2026)",
+  "upload_type": "lesson",
+  "language": "kor",
+  "license": "cc-by-sa-4.0",
+  "access_right": "open",
+  "description": "<p>傳統文化硏究會 古典硏修院 주관 「AI 고전번역학 전문과정」 2026년 2학기 석학 초청 특별 기획 강좌 「조선총독부 문서의 해독」 가운데, <strong>강독 산출물을 AI 데이터로 전환하는 실습 세 차례</strong>의 자료와 산출물이다. 강독 자체의 기록은 포함하지 않는다.</p><p>수강생이 자기 사료를 자기 데이터로 만드는 과정을 직접 밟는 것을 목표로 한다. 1회는 원본 이미지를 읽을 수 있는 텍스트로 바꾸고, 2회는 그 텍스트에 사람의 판단을 입혀 데이터로 만들며, 3회는 그 판단을 프롬프트로 옮겨 TEI 기반 인코딩을 반자동화한다.</p><p>공통 실습 자료는 『臨時財産整理局事務要綱』(朝鮮總督府 度支部, 1911)이다. 저장소에는 수업에서 판독·확정한 전사 텍스트, 강의 슬라이드와 진행안, 조별 작업틀, PDF 이미지 변환 노트북, 프롬프트 작성 지침 한국어본, 프롬프트 실습 기록표 양식이 들어 있다. 교재 스캔과 선행논문 PDF는 이용 조건 때문에 포함하지 않고 서지사항과 링크로 대신한다.</p>",
+  "creators": [
+    {
+      "name": "Jung, Song-yi",
+      "affiliation": "한국학중앙연구원 (The Academy of Korean Studies)",
+      "orcid": "0009-0002-8141-766X"
+    },
+    {
+      "name": "Kim, Baro",
+      "affiliation": "한국학중앙연구원 (The Academy of Korean Studies)",
+      "orcid": "0000-0002-4456-9616"
+    }
+  ],
+  "keywords": [
+    "디지털인문학",
+    "digital humanities",
+    "TEI",
+    "XML",
+    "LLM",
+    "prompt engineering",
+    "조선총독부 문서",
+    "일제강점기 사료",
+    "근세 일본어 문어문",
+    "한문 사료 데이터화",
+    "teaching materials",
+    "Korean studies"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://kstoryhub.visualasia.com/classics/wiki/index.php?title=AI_%EA%B3%A0%EC%A0%84%EB%B2%88%EC%97%AD%ED%95%99",
+      "relation": "isPartOf",
+      "resource_type": "other",
+      "scheme": "url"
+    }
+  ],
+  "notes": "傳統文化硏究會 古典硏修院 주관. 공동 — 한국디지털인문학협의회(KADH), 덕성여자대학교 평생교육원, 고려대학교, 동국대학교, 한국학중앙연구원. 장소 — 한국학중앙연구원 디지털인문학연구소."
+}
